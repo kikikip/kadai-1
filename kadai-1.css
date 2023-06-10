@@ -67,3 +67,20 @@ footer {
   height: 50px; /* 高さ120px */
   background-color: #848282;
 }
+
+@media screen and (max-width: 425px) {
+  header {
+    width: 100%;
+  }
+
+  main {
+    width: 100%;
+    display: block;
+  }
+
+  .kadai1-box {
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+}
