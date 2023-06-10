@@ -83,4 +83,10 @@ footer {
     justify-content: center;
   }
 
+  .kadai1-box:last-child {
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+
 }
